@@ -1,7 +1,7 @@
 # kemr_GWAS
 Kmer_GWAS is a pipline that attempts to use kmer frequencies as the genetic markers to associate genetic variants with large scale inter-spcies traits. 
 
-# prerequesite:
+# prerequesite: 
 . Python 2.7.X
 . panda
 . numpy
